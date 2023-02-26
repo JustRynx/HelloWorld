@@ -1,0 +1,16 @@
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/bin/Debug/remakeITS.exe.config
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.exe
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.pdb
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/bin/Debug/remakeITS.exe
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/bin/Debug/remakeITS.pdb
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.KitchenDP.resources
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.Main.resources
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.Login.resources
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.Properties.Resources.resources
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.csproj.GenerateResource.Cache
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.ReceiptForm.resources
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/RdlCompile.cache
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/RdlCompile.compiled
+C:/Users/allar/Documents/Visual Studio 2012/Projects/remakeITS/remakeITS/obj/Debug/remakeITS.csprojResolveAssemblyReference.cache
+/workspaces/HelloWorld/Remake_ITS/remakeITS/obj/Debug/remakeITS.exe
+/workspaces/HelloWorld/Remake_ITS/remakeITS/obj/Debug/remakeITS.pdb
