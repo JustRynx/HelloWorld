@@ -1,0 +1,15 @@
+/workspaces/HelloWorld/HelloWorldTest/bin/Debug/net7.0/HelloWorldTest
+/workspaces/HelloWorld/HelloWorldTest/bin/Debug/net7.0/HelloWorldTest.deps.json
+/workspaces/HelloWorld/HelloWorldTest/bin/Debug/net7.0/HelloWorldTest.runtimeconfig.json
+/workspaces/HelloWorld/HelloWorldTest/bin/Debug/net7.0/HelloWorldTest.dll
+/workspaces/HelloWorld/HelloWorldTest/bin/Debug/net7.0/HelloWorldTest.pdb
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.csproj.AssemblyReference.cache
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.AssemblyInfoInputs.cache
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.AssemblyInfo.cs
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.csproj.CoreCompileInputs.cache
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.dll
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/refint/HelloWorldTest.dll
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.pdb
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/HelloWorldTest.genruntimeconfig.cache
+/workspaces/HelloWorld/HelloWorldTest/obj/Debug/net7.0/ref/HelloWorldTest.dll
